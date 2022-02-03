@@ -1,0 +1,327 @@
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T19:52:48Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T19:52:56Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T19:53:22Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T19:54:35Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T19:54:42Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T19:54:43Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T19:54:44Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T19:54:44Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T19:55:24Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T20:29:22Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T20:36:08Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T20:36:11Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T20:50:36Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T20:51:00Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T20:54:00Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T20:54:12Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T20:54:53Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T20:57:08Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T20:58:00Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T20:58:12Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-03T21:14:13Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T10:59:57Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:03:12Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:03:13Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:03:24Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:03:39Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:04:36Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T11:04:36Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:08:23Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T11:08:23Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:08:43Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T11:08:43Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T11:08:43Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:08:54Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T11:08:54Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:09:03Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T11:09:03Z"}
+{"level":"debug","msg":"Allocated [%s]10.244.0.0","time":"2022-02-06T11:09:03Z"}
+{"level":"warning","msg":"Bridge [%s] created with IP: [%s]yarp010.244.0.0","time":"2022-02-06T11:09:03Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:09:15Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T11:09:15Z"}
+{"level":"debug","msg":"Allocated [%s]10.244.0.1","time":"2022-02-06T11:09:15Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.1]","time":"2022-02-06T11:09:15Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:09:19Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T11:09:20Z"}
+{"level":"debug","msg":"Allocated [%s]10.244.0.2","time":"2022-02-06T11:09:20Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.2]","time":"2022-02-06T11:09:20Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:09:28Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T11:09:28Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.3]","time":"2022-02-06T11:09:28Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:09:31Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T11:09:31Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:09:40Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T11:09:40Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:09:47Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T11:09:47Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:10:13Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T11:10:13Z"}
+{"level":"error","msg":"invalid CIDR address: 10.244.0.3","time":"2022-02-06T11:10:13Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:13:41Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T11:13:41Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.3]","time":"2022-02-06T11:13:41Z"}
+{"level":"error","msg":"\u003cnil\u003e","time":"2022-02-06T11:13:41Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:14:02Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T11:14:02Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.3]","time":"2022-02-06T11:14:02Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:14:05Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T11:14:05Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.3]","time":"2022-02-06T11:14:05Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:14:24Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T11:14:24Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:14:30Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T11:14:30Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.0]","time":"2022-02-06T11:14:30Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:14:48Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T11:14:48Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:32:57Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T11:32:57Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:38:00Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T11:38:00Z"}
+{"level":"debug","msg":"Allocated [%s]10.244.0.1","time":"2022-02-06T11:38:00Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:38:18Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T11:38:18Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T11:38:18Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:42:19Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T11:42:19Z"}
+{"level":"debug","msg":"Allocated [10.244.0.4]","time":"2022-02-06T11:42:19Z"}
+{"level":"error","msg":"invalid argument","time":"2022-02-06T11:42:19Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:42:26Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T11:42:26Z"}
+{"level":"error","msg":"file exists","time":"2022-02-06T11:42:26Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:42:34Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T11:42:34Z"}
+{"level":"debug","msg":"Allocated [10.244.0.5]","time":"2022-02-06T11:42:34Z"}
+{"level":"error","msg":"invalid argument","time":"2022-02-06T11:42:34Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:45:04Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T11:45:04Z"}
+{"level":"debug","msg":"Allocated [10.244.0.6]","time":"2022-02-06T11:45:04Z"}
+{"level":"error","msg":"invalid argument","time":"2022-02-06T11:45:04Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:46:35Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T11:46:35Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T11:46:35Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T11:48:14Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T11:48:14Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.2]","time":"2022-02-06T11:48:14Z"}
+{"level":"debug","msg":"Allocated [10.244.0.3]","time":"2022-02-06T11:48:14Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:16:15Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T13:16:15Z"}
+{"level":"debug","msg":"Allocated [10.244.0.4]","time":"2022-02-06T13:16:15Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:31:01Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T13:31:01Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.1]","time":"2022-02-06T13:31:01Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T13:31:01Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:31:52Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T13:31:52Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T13:31:52Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:34:09Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T13:34:09Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.0]","time":"2022-02-06T13:34:09Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T13:34:09Z"}
+{"level":"error","msg":"invalid argument","time":"2022-02-06T13:34:09Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:35:40Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T13:35:40Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.0]","time":"2022-02-06T13:35:40Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T13:35:40Z"}
+{"level":"error","msg":"invalid argument","time":"2022-02-06T13:35:40Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:37:46Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T13:37:46Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:37:53Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T13:37:53Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T13:37:53Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:38:14Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T13:38:14Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:38:38Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T13:38:38Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:39:19Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T13:39:19Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:39:26Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T13:39:26Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:39:58Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T13:39:58Z"}
+{"level":"error","msg":"file exists","time":"2022-02-06T13:39:58Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:40:01Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T13:40:01Z"}
+{"level":"debug","msg":"Allocated [10.244.0.0]","time":"2022-02-06T13:40:01Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:40:06Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T13:40:06Z"}
+{"level":"error","msg":"file exists","time":"2022-02-06T13:40:06Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:40:08Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T13:40:08Z"}
+{"level":"debug","msg":"Allocated [10.244.0.0]","time":"2022-02-06T13:40:08Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:40:14Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T13:40:14Z"}
+{"level":"error","msg":"file exists","time":"2022-02-06T13:40:14Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:40:53Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T13:40:53Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:40:59Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T13:40:59Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T13:42:10Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T13:42:10Z"}
+{"level":"debug","msg":"Allocated [10.244.0.0]","time":"2022-02-06T13:42:10Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.0]","time":"2022-02-06T13:42:10Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T14:47:05Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T14:47:05Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T14:47:05Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.1]","time":"2022-02-06T14:47:05Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T14:47:05Z"}
+{"level":"debug","msg":"Allocated [10.244.0.3]","time":"2022-02-06T14:47:05Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T14:47:30Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T14:47:30Z"}
+{"level":"debug","msg":"Allocated [10.244.0.0]","time":"2022-02-06T14:47:30Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.0]","time":"2022-02-06T14:47:30Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T14:47:30Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T14:47:30Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T14:49:07Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T14:49:07Z"}
+{"level":"debug","msg":"Allocated [10.244.0.0]","time":"2022-02-06T14:49:07Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.0]","time":"2022-02-06T14:49:07Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T14:49:07Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T14:49:07Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.1]","time":"2022-02-06T14:49:07Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T14:52:37Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T14:52:37Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T14:52:37Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.1]","time":"2022-02-06T14:52:37Z"}
+{"level":"error","msg":"file exists","time":"2022-02-06T14:52:37Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T14:53:01Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T14:53:01Z"}
+{"level":"debug","msg":"Allocated [10.244.0.0]","time":"2022-02-06T14:53:01Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.0]","time":"2022-02-06T14:53:01Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T14:53:01Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T14:53:01Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.1]","time":"2022-02-06T14:53:01Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T14:57:16Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T14:57:16Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T14:57:16Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.1]","time":"2022-02-06T14:57:16Z"}
+{"level":"error","msg":"file exists","time":"2022-02-06T14:57:16Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T14:57:31Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T14:57:31Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T14:57:31Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.2]","time":"2022-02-06T14:57:31Z"}
+{"level":"debug","msg":"Allocated [10.244.0.3]","time":"2022-02-06T14:57:31Z"}
+{"level":"debug","msg":"Allocated [10.244.0.4]","time":"2022-02-06T14:57:31Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.3]","time":"2022-02-06T14:57:31Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T14:57:44Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T14:57:44Z"}
+{"level":"debug","msg":"Allocated [10.244.0.3]","time":"2022-02-06T14:57:44Z"}
+{"level":"debug","msg":"Allocated [10.244.0.5]","time":"2022-02-06T14:57:44Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.3]","time":"2022-02-06T14:57:44Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:02:19Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T15:02:19Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T15:02:19Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.1]","time":"2022-02-06T15:02:19Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T15:02:19Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.1]","time":"2022-02-06T15:02:19Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:02:21Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T15:02:21Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T15:02:21Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.1]","time":"2022-02-06T15:02:21Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:02:22Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T15:02:22Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T15:02:22Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.1]","time":"2022-02-06T15:02:22Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:02:23Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T15:02:23Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T15:02:23Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.1]","time":"2022-02-06T15:02:23Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:02:24Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T15:02:24Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T15:02:24Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.1]","time":"2022-02-06T15:02:24Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:02:25Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T15:02:25Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T15:02:25Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.1]","time":"2022-02-06T15:02:25Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:02:25Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T15:02:25Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T15:02:25Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.1]","time":"2022-02-06T15:02:25Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:02:26Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T15:02:26Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T15:02:26Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.1]","time":"2022-02-06T15:02:26Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:02:28Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T15:02:28Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T15:02:28Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.1]","time":"2022-02-06T15:02:28Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:03:53Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T15:03:53Z"}
+{"level":"error","msg":"file exists","time":"2022-02-06T15:03:53Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:04:00Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T15:04:00Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T15:04:00Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.1]","time":"2022-02-06T15:04:00Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T15:04:00Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.1]","time":"2022-02-06T15:04:00Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:08:51Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T15:08:51Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T15:08:51Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.1]","time":"2022-02-06T15:08:51Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T15:08:51Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.2]","time":"2022-02-06T15:08:51Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:08:57Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T15:08:57Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T15:08:57Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.2]","time":"2022-02-06T15:08:57Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:08:58Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T15:08:58Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T15:08:59Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.2]","time":"2022-02-06T15:08:59Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:09:00Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T15:09:00Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T15:09:00Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.2]","time":"2022-02-06T15:09:00Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T15:09:01Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T15:09:01Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T15:09:01Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.2]","time":"2022-02-06T15:09:01Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T16:01:21Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T16:01:21Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T16:01:21Z"}
+{"level":"error","msg":"\u0026{ [{7aa6950d  } {eth0  /var/run/netns/namespace} {eth0  /var/run/netns/namespace}] [{10.244.0.2/24 10.244.0.1 0}] [{0.0.0.0/0 10.244.0.1}] []}","time":"2022-02-06T16:01:21Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.2]","time":"2022-02-06T16:01:21Z"}
+{"level":"error","msg":"\u0026{ [{eth0  /var/run/netns/namespace}] [{10.244.0.2  0}] [{0.0.0.0/0 }] []}","time":"2022-02-06T16:01:21Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T16:01:43Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T16:01:43Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T16:01:43Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.2]","time":"2022-02-06T16:01:43Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T16:02:30Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T16:02:30Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T16:02:31Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.2]","time":"2022-02-06T16:02:31Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T16:03:03Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T16:03:03Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T16:03:03Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.2]","time":"2022-02-06T16:03:03Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T16:05:35Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T16:05:35Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T16:05:35Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.2]","time":"2022-02-06T16:05:35Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T16:05:36Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T16:05:36Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T16:05:36Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.2]","time":"2022-02-06T16:05:36Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T16:05:37Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T16:05:37Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T16:05:37Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.2]","time":"2022-02-06T16:05:37Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T16:05:38Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T16:05:38Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T16:05:38Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.2]","time":"2022-02-06T16:05:38Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T16:05:57Z"}
+{"level":"warning","msg":"Bridge [yarp0] does not exist","time":"2022-02-06T16:05:57Z"}
+{"level":"debug","msg":"Allocated [10.244.0.1]","time":"2022-02-06T16:05:57Z"}
+{"level":"warning","msg":"Bridge [yarp0] created with IP: [10.244.0.1]","time":"2022-02-06T16:05:57Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T16:05:57Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.2]","time":"2022-02-06T16:05:57Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T16:06:01Z"}
+{"level":"warning","msg":"Bridge already created. Skipping.","time":"2022-02-06T16:06:01Z"}
+{"level":"debug","msg":"Allocated [10.244.0.2]","time":"2022-02-06T16:06:01Z"}
+{"level":"debug","msg":"DeAllocated [10.244.0.2]","time":"2022-02-06T16:06:01Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T16:24:37Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T16:25:11Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T16:25:27Z"}
+{"level":"info","msg":"Logger initilized","time":"2022-02-06T17:17:07Z"}

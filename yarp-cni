@@ -1,0 +1,17 @@
+#!/usr/bin/bash
+#printenv >> /tmp/envvars
+
+if [ $CNI_COMMAND == "DEL" ]; 
+then
+#echo "deleted $CNI_CONTAINERID" >> /tmp/envvars
+printf '{"cniVersion":"1.0.0", "code": 0, "msg": "", "details": ""}'
+exit 0
+fi
+
+if [ $CNI_COMMAND == "ADD" ]; 
+then
+ip netns list >> /tmp/envvars
+printf '{"cniVersion":"1.0.0", "code": 0, "msg": "", "details": ""}'
+exit 0
+fi
+
